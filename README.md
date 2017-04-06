@@ -2,7 +2,7 @@
 CountTimeEditText
 #### 提供输入计时功能的EditText
 
-![](https://github.com/breewf/CountTimeEditText/blob/master/app/src/main/java/com/ghy/timeedittext/gif/time_demo.gif?raw=true)
+![](https://github.com/breewf/CountTimeEditText/blob/master/app/src/main/java/com/ghy/timeedittext/gif/demo.gif?raw=true)
 
 
 ##### 1.添加依赖
