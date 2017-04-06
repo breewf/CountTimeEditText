@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="CountTimeEditText-1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/d280494e53685529fd6c6b88bff1a56fe8ea444a/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/d280494e53685529fd6c6b88bff1a56fe8ea444a/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ghy/CountTimeEditText/1.0/74124981da9399c83694d61c1f52c5044efc748a/CountTimeEditText-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

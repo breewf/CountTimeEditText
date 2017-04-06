@@ -1,4 +1,4 @@
-package com.ghy.counttimeedittext;
+package com.ghy.timeedittext;
 
 import org.junit.Test;
 
