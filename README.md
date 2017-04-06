@@ -4,12 +4,6 @@ CountTimeEditText
 
 ![](https://github.com/breewf/CountTimeEditText/blob/master/app/src/main/java/com/ghy/timeedittext/gif/time_demo.gif?raw=true)
 
-##### 输入日志
-```javascript
-I/CountTimeEditText: 获取焦点--键盘开-->>>>
-I/CountTimeEditText: 失去焦点--键盘关-->>>>
-I/CountTimeEditText: 失去焦点--本次输入时长-->>>>7s
-```
 
 ##### 1.添加依赖
 ```javascript
